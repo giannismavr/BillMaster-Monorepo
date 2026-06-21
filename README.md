@@ -1,4 +1,4 @@
-# BillMaster — Monorepo (Git Submodules)
+# BillMaster - Monorepo (Git Submodules)
 
 Το **BillMaster** είναι μια cloud-native εφαρμογή διαχείρισης λογαριασμών και παραστατικών, αναπτυγμένη σε Kubernetes (MicroK8s) με GitOps deployment, external secret management μέσω HashiCorp Vault, και πειραματική αξιολόγηση απόδοσης (SLA) με k6.
 
@@ -9,7 +9,7 @@
 ```
 BillMaster-Monorepo/
 ├── kustomize/           → Charos01/Kustomize (main)
-├── billmaster/          → Charos01/BillMaster (dev) — frontend, IaC, Jenkinsfile, SLA
+├── billmaster/          → Charos01/BillMaster (dev) - frontend, IaC, Jenkinsfile, SLA
 └── billmaster-backend/  → Charos01/BillMaster_Backend (dev)
 ```
 
@@ -46,5 +46,5 @@ git commit -m "Update billmaster submodule to latest dev commit"
 
 ## Authors
 
-- Παναγιώτης Χάρος — ais25133
-- Ιωάννης Μαυροδήμος — ais25126
+- Παναγιώτης Χάρος - ais25133
+- Ιωάννης Μαυροδήμος - ais25126
