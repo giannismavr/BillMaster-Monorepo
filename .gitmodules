@@ -1,0 +1,12 @@
+[submodule "kustomize"]
+	path = kustomize
+	url = https://github.com/Charos01/Kustomize.git
+	branch = main
+[submodule "billmaster"]
+	path = billmaster
+	url = https://github.com/Charos01/BillMaster.git
+	branch = dev
+[submodule "billmaster-backendm"]
+	path = billmaster-backendm
+	url = https://github.com/Charos01/BillMaster_Backend.git
+	branch = dev
